@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+article, footer, header, main, nav, section {
+	display: block;
+}
+
+html, body, h1, h2, h3, ul, li, a, p,
+article, footer, header, main, nav, section{
+	padding: 0;
+	margin: 0;
+}
+
+.banner {
+	background-color: #11233b;
+	color: white;
+	padding: 10px 20px;
+}
+
+body {
+	background-color: #f0f0f0;
+	font-family: Helvetics, Arial, sans-serif;
+	font-size: 15px;
+	
+}
+
+nav{
+	background-color: #20416c;
+	padding: 5px;
+	margin-top: 1px;
+	
+}
+
+li a {
+	color: white;
+	
+}
+
+li {
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+	
+}
+
+section {
+	background-color: #bbbbbb;
+	margin-top: 10px;
+	padding: 5px;
+	text-align: center;
+}
+
+
+article {
+	background-color: white;
+	margin-top: 5px;
+	padding: 10px 15px;
+}
+
+
+main {
+	margin-bottom: 10px;
+}
+
+.personal-info{
+	text-align: left;
+}
+
+.education{
+	text-align: left;
+}
+
+.skills{
+	text-align: left;
+}
+
+.reference{
+	text-align: left;
+}
+
+.activities{
+	text-align: left;
+}
+
+
+.experiance{
+	text-align: left;
+}
+
+.bio{
+	text-align: left;
+	background-color: #bbbbbb;
+}
+.formpage{
+	text-align: center;
+	margin-top: 10px;
+	border: 1px solid black;
+    background-color: #bbbbbb;
+    padding: 50px 30px 50px 80px;
+}
+
+footer {
+	clear: both;
+	background-color: #20416c;
+	color: white;
+	padding: 10px 20px;
+	margin-top: 20px;
+	 position: relative;
+	
+}
+
+.cv-footer{
+	margin-top: 5px;
+	 position: relative;
+}
+
+
+.bio-footer{
+	margin-top: 50px;
+	 position: relative;
+}
+
+.contact-footer{
+	margin-top: 50px;
+	 position: relative;
+	
+}
+
+.wrapper {
+	margin: 0 auto;
+	max-width: 1024px;
+	width: 100%;
+}
