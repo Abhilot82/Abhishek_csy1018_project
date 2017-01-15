@@ -20,5 +20,5 @@ I have used the git hub repository [mastering-markdown](https://guides.github.co
  - [x] Learnt basics of HTML & HTML5
  - [x] Learnt basics of CSS
  - [x] Learnt basics of Mark Down language
- - [] Javascript
- - [] Advanced HTML 
+ - [ ] Javascript
+ - [ ] Advanced HTML 
